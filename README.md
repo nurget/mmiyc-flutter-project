@@ -1,6 +1,7 @@
 # mmiyc
 
-A new Flutter project.
+기존 Match Me If You Can (matchmeifyoucan.today)
+플러터를 활용한 웹뷰 앱으로 생성
 
 ## Getting Started
 
